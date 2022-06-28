@@ -7,4 +7,4 @@ Markdown is not a replacement for HTML, or even close to it. Its syntax is very 
 easy to read, write, and edit prose. HTML is a *publishing* format; Markdown is a *writing* format. Thus, Markdown's formatting syntax only addresses issues
 that can be conveyed in plain text.
 
-
+[Github Page](mattman206.github.io/reading-notes-102d40)
