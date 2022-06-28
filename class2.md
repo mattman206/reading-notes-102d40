@@ -29,3 +29,5 @@ A command line, or terminal, is a text based interface to the system. You are ab
 #### Basic Navigation of Files
 * *Absolute Path* - A file or directory location in relation to the root of the file system.
 * *Relative Path* - A file or directory location relative to where we currently are in the file system.
+
+[My Github page](mattman206.github.io/reading-notes-102d40)
