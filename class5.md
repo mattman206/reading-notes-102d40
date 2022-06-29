@@ -23,3 +23,5 @@ There are three ways of inserting a style sheet:
 > The internal style is defined inside the `style` element, inside the head section.
 > An inline style may be used to apply a unique style for a single element.
 > To use inline styles, add the style attribute to the    relevant element. The style attribute can contain any CSS property.
+
+[Github pages](https://mattman206.github.io/reading-notes-102d40/class5.html)
