@@ -5,3 +5,4 @@
 3. [Reading notes Class 3](class3.md)
 4. [Reading notes Lab 3](lab3reading.md)
 5. [Reading notes Class 4](class4.md)
+6. [Reading notes Class 5](class5.md)
