@@ -1,11 +1,6 @@
+# Table of Contents
 
-# Growth Mindset
-
-I feel first and foremost having the right mindset, one of *curiousity* and *adaptability*, is crucial to any type of success. I strive to learn and grow in any endeavor I try. I don't always succeed, but I do always "stay the course" and keep trying.
-
->    “A growt mindset is when students understand that their abilities can be developed,” (Dweck, 2014).
-
-Things I will challenge myself in this area are:
-* Always be prepared
-* Clarity on what is expected of me
-* Be open-minded
+[Reading notes Class 1](class1.md)
+[Reading notes Class 2](class2.md)
+[Reading notes Class 3](class3.md)
+[Reading notes Class 4](class4.md)
