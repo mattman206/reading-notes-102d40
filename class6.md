@@ -8,9 +8,11 @@ Do not confuse JavaScript with the Java programming language. Both *Java* and *J
 
 The core client-side JavaScript language consists of some common programming features that allow you to do things like:
 
-Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name.
-Operations on pieces of text (known as "strings" in programming). In the above example we take the string "Player 1: " and join it to the name variable to create the complete text label, e.g. "Player 1: Chris".
-Running code in response to certain events occurring on a web page. We used a click event in our example above to detect when the label is clicked and then run the code that updates the text label.
+JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements. Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects; for example:
+
+* Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model (DOM). For example, client-side extensions allow an application to place elements on an HTML form and respond to user events such as mouse clicks, form input, and page navigation.
+* Server-side JavaScript extends the core language by supplying objects relevant to running JavaScript on a server. For example, server-side extensions allow an application to communicate with a database, provide continuity of information from one invocation to another of the application, or perform file manipulations on a server.
+This means that in the browser, JavaScript can change the way the webpage (DOM) looks.
 
 ### Input and Output in JavaScript
 
