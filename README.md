@@ -7,5 +7,3 @@
 5. [Reading notes Class 4](class4.md)
 6. [Reading notes Class 5](class5.md)
 7. [Reading notes Class 6](class6.md)
-
-![Github Pages](https://mattman206.github.io/reading-notes-102d40/class5.html)
