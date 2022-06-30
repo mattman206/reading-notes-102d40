@@ -8,3 +8,4 @@
 6. [Reading notes Class 5](class5.md)
 7. [Reading notes Class 6](class6.md)
 8. [Reading Notes Class 7](class7.md)
+9. [Reading Notes Class 8](class8.md)
