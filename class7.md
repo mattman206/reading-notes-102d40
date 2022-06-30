@@ -61,4 +61,4 @@ Assignment operators assign values to JavaScript variables.
 
 The addition assignment operator (+=) adds a value to a variable.
 
-[My github Page](https://mattman206.github.io/reading-notes-102d40/class7.html)
+[My github page](https://mattman206.github.io/reading-notes-102d40/class7.html)
