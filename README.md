@@ -7,3 +7,4 @@
 5. [Reading notes Class 4](class4.md)
 6. [Reading notes Class 5](class5.md)
 7. [Reading notes Class 6](class6.md)
+8. [Reading Notes Class 7](class7.md)
