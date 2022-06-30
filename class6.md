@@ -33,3 +33,5 @@ Always declare JavaScript variables with var, let, or const.
 The var keyword is used in all JavaScript code from 1995 to 2015.
 The let and const keywords were added to JavaScript in 2015.
 If you want your code to run in older browser, you must use var.
+
+[Github pages](https://mattman206.github.io/reading-notes-102d40/class6.html)
