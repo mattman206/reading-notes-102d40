@@ -45,3 +45,20 @@ Inside the function, the arguments *the parameters* behave as local variables.
 You can reuse code: Define the code once, and use it many times.
 
 You can use the same code many times with different arguments, to produce different results.
+
+## JavaScript Assignment Operators
+
+Assignment operators assign values to JavaScript variables.
+
+> Operator Example Same As
+> = x = y x = y
+> += x += y x = x + y
+> -= x -= y x = x - y
+> *= x*= y x = x * y
+> /= x /= y x = x / y
+> %= x %= y x = x % y
+> **= x **= y x = x ** y
+
+The addition assignment operator (+=) adds a value to a variable.
+
+[My github Page](https://mattman206.github.io/reading-notes-102d40/class7.html)
