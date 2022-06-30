@@ -50,15 +50,4 @@ You can use the same code many times with different arguments, to produce differ
 
 Assignment operators assign values to JavaScript variables.
 
-> Operator Example Same As
-> = x = y x = y
-> += x += y x = x + y
-> -= x -= y x = x - y
-> *= x*= y x = x * y
-> /= x /= y x = x / y
-> %= x %= y x = x % y
-> **= x **= y x = x ** y
-
-The addition assignment operator (+=) adds a value to a variable.
-
 [My github page](https://mattman206.github.io/reading-notes-102d40/class7.html)
